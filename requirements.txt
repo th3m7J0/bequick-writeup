@@ -1,0 +1,4 @@
+pwn
+pillow
+numpy
+pyzbar
